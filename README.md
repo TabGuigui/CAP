@@ -14,7 +14,9 @@ paper address: https://arxiv.org/abs/2112.02597 (not final version)
 
 ## 
 
-### Exp
+### Experiment
+
+##
 
 #### quickly run
 
@@ -23,6 +25,7 @@ paper address: https://arxiv.org/abs/2112.02597 (not final version)
 sh cifar10.sh
 ```
 > For cifar100, exchange --dataset cifar100
+
 > For mvTec, please download mvTec dataset and exchange hyperparameters corresponding to appendix file.
 
 
