@@ -1,8 +1,8 @@
-# CAP
+# Constrained Adaptive Projection with Pretrained Features for Anomaly Detection(IJCAI 2022)
 
-implementation of paper "Constrained Adaptive Projection with Pretrained Features for Anomaly Detection“ （CAP）
+pytorch implementation of paper "Constrained Adaptive Projection with Pretrained Features for Anomaly Detection" （CAP）
 
-paper address: https://arxiv.org/abs/2112.02597 (not final version)
+paper address: https://arxiv.org/abs/2112.02597
 
 ## 1. Requirements
 Currently, requires following packages
