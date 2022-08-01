@@ -2,7 +2,9 @@
 
 pytorch implementation of paper "Constrained Adaptive Projection with Pretrained Features for Anomaly Detection" （CAP）
 
-paper address: https://arxiv.org/abs/2112.02597
+arxiv paper address: https://arxiv.org/abs/2112.02597
+
+official ijcai paper address: https://www.ijcai.org/proceedings/2022/0286.pdf
 
 ## 1. Requirements
 Currently, requires following packages
@@ -38,4 +40,11 @@ python main.py --dataset <dataset> --normal_class <normal-class> --regular <cons
 ```
 
 
-
+## Citation
+If you find this project useful in your research, please consider cite:
+```
+@article{guiconstrained,
+  title={Constrained Adaptive Projection with Pretrained Features for Anomaly Detection},
+  author={Gui, Xingtai and Di Wu, Yang Chang and Fan, Shicai}
+}
+```
