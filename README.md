@@ -43,8 +43,10 @@ python main.py --dataset <dataset> --normal_class <normal-class> --regular <cons
 ## Citation
 If you find this project useful in your research, please consider cite:
 ```
-@article{guiconstrained,
+@article{gui2021constrained,
   title={Constrained Adaptive Projection with Pretrained Features for Anomaly Detection},
-  author={Gui, Xingtai and Di Wu, Yang Chang and Fan, Shicai}
+  author={Gui, Xingtai and Wu, Di and Chang, Yang and Fan, Shicai},
+  journal={arXiv preprint arXiv:2112.02597},
+  year={2021}
 }
 ```
